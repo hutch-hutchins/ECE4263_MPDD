@@ -3,7 +3,7 @@
 struct Circle
 {
     float radius;
-} circle;
+};
 
 int main()
 {

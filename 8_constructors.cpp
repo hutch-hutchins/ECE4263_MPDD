@@ -25,4 +25,6 @@ int main()
 
     cout << "Student1: " << student1.name << endl;
 
+    Student student2;
+
 }

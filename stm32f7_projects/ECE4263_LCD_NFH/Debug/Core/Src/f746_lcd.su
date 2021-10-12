@@ -1,0 +1,2 @@
+f746_lcd.c:21:6:screenClear	16	static
+f746_lcd.c:27:6:printLCD	8	static
